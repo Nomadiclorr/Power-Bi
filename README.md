@@ -12,3 +12,13 @@ Power BI consists of a Microsoft Windows desktop application called Power BI Des
 To create Power BI Solutions, there are several major building blocks. These elements help not only what data is being presented, but also how it appears to those users who are consuming it. Those elements are datasets, reports, and dashboards. All elements are organized into workspaces, and they're created on capacities.
 
 Let’s look at each of these elements in more detail.
+
+#### Capacities
+Capacities are a core Power BI concept representing a set of resources used to host and deliver your Power BI content. Capacities are either shared or dedicated. A shared capacity is shared with other Microsoft customers, while a dedicated capacity is fully committed to a single customer. Dedicated capacities require a subscription. By default, workspaces are created on a shared capacity. 
+
+#### Workspaces
+Workspaces are containers for dashboards, reports, datasets, and dataflows in Power BI. There are two types of workspaces: My workspace and workspaces.
+
+1. **My workspace** is the personal workspace for any Power BI customer to work with your own content. Only you have access to your My workspace. You can share dashboards and reports from your My Workspace. If you want to collaborate on dashboards and reports or create an app, then you want to work in a workspace.
+2. **Workspaces** are used to collaborate and share content with colleagues. You can add colleagues to your workspaces and collaborate on dashboards, reports, and datasets. With one exception, all workspace members need Power BI Pro licenses.
+   
